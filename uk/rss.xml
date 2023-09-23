@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://klub.ukraine.dk/uk">
+  <channel>
+    <title>Klub Ukraine</title>
+    <link>http://klub.ukraine.dk/uk</link>
+    <description/>
+    <language>uk</language>
+    
+    <item>
+  <title>Про нас</title>
+  <link>http://klub.ukraine.dk/uk/node/1</link>
+  <description>
+&lt;span property="schema:name"&gt;Про нас&lt;/span&gt;
+
+&lt;span rel="schema:author"&gt;&lt;span lang="" about="http://klub.ukraine.dk/uk/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+
+&lt;span property="schema:dateCreated" content="2022-03-17T21:16:56+00:00"&gt;Thu, 03/17/2022 - 22:16&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+
+&lt;div class="block block-layout-builder block-field-blocknodepagebody"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+            &lt;div property="schema:text" class="text-content clearfix field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;img alt="Klub Ukraine" data-entity-type="file" data-entity-uuid="be586bce-841b-4a89-b98f-be63b23a4036" src="http://klub.ukraine.dk/sites/default/files/inline-images/Screenshot%20from%202022-03-17%2022-21-46.png" class="align-center" width="823" height="447" loading="lazy" /&gt;&lt;p&gt;Клуб Україна є некомерційною просвітницькою організацією, яка об’єднує осіб, що беруть активну участь в суспільному житті з метою спілкування, обміну інформацією, розширення знань про все, що хвилює учасників організації у дусі національних цінностей.&lt;/p&gt;
+
+&lt;p&gt;Клуб Україна засновано у 2011р. м Вайле. Організація наразі нараховує більше сотні зареєстрованих членів.&lt;/p&gt;
+
+&lt;p&gt;Метою організації є через зустрічі, спілкування і активну діяльність заохотити членів Клубу Україна зберегти українську мову, традиції та культуру та навчити наших дітей вільно володіти українською мовою. Метою діяльності організації є створення сприятливих умов для гармонійного розвитку національної самосвідомості.&lt;/p&gt;
+
+&lt;p&gt;Проведення низки благодійних заходів задля збору коштів для хворих дітей, що потребують лікування за кордоном .&lt;/p&gt;
+
+&lt;p&gt;Напрямки діяльності:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://klub.ukraine.dk/uk/school"&gt;Українська  школа&lt;/a&gt; для дітей віком від 4 до 12&lt;/li&gt;
+	&lt;li&gt;Проведення освітніх та соціально- культурних заходів впродовж року&lt;/li&gt;
+	&lt;li&gt;"Творча майстерня" - креатив для дорослих&lt;/li&gt;
+	&lt;li&gt;Футбол для чоловіків&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Благодійність - офіційно зареєстрований збір коштів для допомоги потребуючим сім'ям, до яких прийшла біда - хвороба дитини та неспроможність оплатити лікування закордоном.&lt;/p&gt;
+
+&lt;p&gt;За 2015 рік вдалося зібрати на благодійний рахунок клубу і відправити на рахунки клінік 209.321 kr&lt;/p&gt;
+&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-extra-field-blocknodepagelinks"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-field-blocknodepagefield-summary"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+  &lt;div class="text-content clearfix field field--name-field-summary field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Summary&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;img alt="Klub Ukraine" data-entity-type="file" data-entity-uuid="be586bce-841b-4a89-b98f-be63b23a4036" src="http://klub.ukraine.dk/sites/default/files/inline-images/Screenshot%20from%202022-03-17%2022-21-46.png" class="align-center" width="823" height="447" loading="lazy" /&gt;&lt;p&gt;Клуб Україна є некомерційною просвітницькою організацією, яка об’єднує осіб, що беруть активну участь в суспільному житті з метою спілкування, обміну інформацією, розширення знань про все, що хвилює учасників організації у дусі національних цінностей.&lt;/p&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-extra-field-blocknodepagecontent-moderation-control"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Thu, 17 Mar 2022 21:16:56 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">1 at http://klub.ukraine.dk</guid>
+    </item>
+<item>
+  <title>Річні збори клубу 2022</title>
+  <link>http://klub.ukraine.dk/uk/node/9</link>
+  <description>
+&lt;span property="schema:name"&gt;Річні збори клубу 2022&lt;/span&gt;
+
+&lt;span rel="schema:author"&gt;&lt;span lang="" about="http://klub.ukraine.dk/uk/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+
+&lt;span property="schema:dateCreated" content="2022-04-06T19:34:31+00:00"&gt;Wed, 04/06/2022 - 21:34&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+
+&lt;div class="block block-layout-builder block-field-blocknodepagebody"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+            &lt;div property="schema:text" class="text-content clearfix field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;a href="http://klub.ukraine.dk/node/10"&gt;Реферат зборів&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;Друзі,&lt;/span&gt;&lt;span&gt; 30.04 о 10.00 відбудуться Річні загальні збори Клубу Україна за адресою:&lt;br /&gt;
+Vissingsgade 31 1.sal&lt;br /&gt;
+7100 Vejle&lt;br /&gt;
+Foreningernes Hus Vejle&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;Заохочуємо усіх, хто має бажання та можливість взяти участь у зустрічі, адже саме так ви можете активно впливати на розвиток організації, підтримати існуючу ініціативу та внести ідеї/ корективи до теперішніх напрямків діяльності. &lt;/span&gt;&lt;/p&gt;
+&lt;figure role="group" class="align-center caption"&gt;&lt;img alt="Річні загальні збори Клубу Україна. Порядок дений" data-entity-type="file" data-entity-uuid="50ad3e25-9fea-4555-a0a3-10ee2e353eab" src="http://klub.ukraine.dk/sites/default/files/inline-images/277436092_2780905188870174_1907979306659823974_n.png" width="612" height="778" loading="lazy" /&gt;&lt;figcaption&gt;Порядок дений&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;&lt;span&gt;Попри це, ви матимете також змогу ознайомитися з теперішньою ситуацією та внеском організації у боротьбі за свободу. &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;Під час зборів також буде обраний новий голова та ряд членів правління, також авторизований ревізор.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-extra-field-blocknodepagelinks"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-field-blocknodepagefield-summary"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+  &lt;div class="text-content clearfix field field--name-field-summary field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Summary&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;p&gt;&lt;span&gt;Друзі, 30.04 о 10.00 відбудуться Річні загальні збори Клубу Україна за адресою:&lt;br /&gt;
+Vissingsgade 31 1.sal&lt;br /&gt;
+7100 Vejle&lt;br /&gt;
+Foreningernes Hus Vejle&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;Заохочуємо усіх, хто має бажання та можливість взяти участь у зустрічі, адже саме так ви можете активно впливати на розвиток організації, підтримати існуючу ініціативу та внести ідеї/ корективи до теперішніх напрямків діяльності.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-extra-field-blocknodepagecontent-moderation-control"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Wed, 06 Apr 2022 19:34:31 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">9 at http://klub.ukraine.dk</guid>
+    </item>
+<item>
+  <title>Зустрічі українців</title>
+  <link>http://klub.ukraine.dk/uk/regular-meetings</link>
+  <description>
+&lt;span property="schema:name"&gt;Зустрічі українців&lt;/span&gt;
+
+&lt;span rel="schema:author"&gt;&lt;span lang="" about="http://klub.ukraine.dk/uk/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+
+&lt;span property="schema:dateCreated" content="2022-04-06T17:52:43+00:00"&gt;Wed, 04/06/2022 - 19:52&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+
+&lt;div class="block block-layout-builder block-field-blocknodepagebody"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+            &lt;div property="schema:text" class="text-content clearfix field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;span lang="uk-UA" xml:lang="uk-UA" xml:lang="uk-UA"&gt;Українське кафе у Вайле для всіх новоприбулих українців - &lt;strong&gt;субота 10-12  &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span lang="uk-UA" xml:lang="uk-UA" xml:lang="uk-UA"&gt;Клуб Україна та Sprogcenter Vejle запрошують новоприбулих українців у Вайле в наше українське кафе за адресою &lt;a href="https://goo.gl/maps/nVSqzM4ontTfdGUKA"&gt;Damhaven 13A&lt;/a&gt;.&lt;br /&gt;
+Українці, які вже довго проживають в Данії, звісно, ​​також запрошуються &lt;/span&gt;&lt;/p&gt;
+&lt;img alt="Українське кафе у Вайле для всіх новоприбулих" data-entity-type="file" data-entity-uuid="b3cbc5f7-519a-4808-a211-fbb37766d75b" src="http://klub.ukraine.dk/sites/default/files/inline-images/Screenshot%20from%202022-04-06%2021-25-29.png" class="align-center" width="1487" height="589" loading="lazy" /&gt;&lt;p&gt;&lt;span lang="uk-UA" xml:lang="uk-UA" xml:lang="uk-UA"&gt;У кафе будуть волонтери з Клубу Україна, які розкажуть про Данію та культуру Данії та як це було приїхати до Данії українцем.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span lang="uk-UA" xml:lang="uk-UA" xml:lang="uk-UA"&gt;Запрошуються діти, буде «ігрова кімната». Будуть чай і кава, інколи волонтери приносять торт.&lt;/span&gt;&lt;/p&gt;
+&lt;img alt="Українське кафе у Вайле «ігрова кімната»" data-entity-type="file" data-entity-uuid="bd1a10a7-9d33-4c93-b38a-61ff213b7e09" src="http://klub.ukraine.dk/sites/default/files/inline-images/Screenshot%20from%202022-04-06%2021-29-06.png" class="align-center" width="1070" height="537" loading="lazy" /&gt;&lt;p&gt;&lt;span lang="uk-UA" xml:lang="uk-UA" xml:lang="uk-UA"&gt;Данський Червоний Хрест має своє кафе (Damhaven 3B) по &lt;strong&gt;четвергах 15-18&lt;/strong&gt;, де також можна отримати допомогу з документами.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span lang="uk-UA" xml:lang="uk-UA" xml:lang="uk-UA"&gt;Поділіться цією можливістю, якщо у вас є контакти з новоприбулими українцями.&lt;br /&gt;
+Реєстрації немає - просто приходьте!&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-extra-field-blocknodepagelinks"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-field-blocknodepagefield-summary"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+  &lt;div class="text-content clearfix field field--name-field-summary field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Summary&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;p&gt;&lt;span lang="uk-UA" xml:lang="uk-UA" xml:lang="uk-UA"&gt;"Українське кафе" у Вайле для всіх новоприбулих українців - &lt;strong&gt;субота 10-12&lt;/strong&gt;&lt;br /&gt;
+Клуб Україна та Sprogcenter Vejle запрошують новоприбулих українців у Вайле в наше українське кафе за адресою &lt;a href="https://goo.gl/maps/nVSqzM4ontTfdGUKA"&gt;Damhaven 13A&lt;/a&gt;.&lt;br /&gt;
+Українці, які вже довго проживають в Данії, звісно, ​​також запрошуються :)&lt;/span&gt;&lt;/p&gt;
+&lt;img alt="Українське кафе у Вайле для всіх новоприбулих" data-entity-type="file" data-entity-uuid="b3cbc5f7-519a-4808-a211-fbb37766d75b" src="http://klub.ukraine.dk/sites/default/files/inline-images/Screenshot%20from%202022-04-06%2021-25-29.png" class="align-center" width="1487" height="589" loading="lazy" /&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-extra-field-blocknodepagecontent-moderation-control"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Wed, 06 Apr 2022 17:52:43 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">8 at http://klub.ukraine.dk</guid>
+    </item>
+<item>
+  <title>Школа</title>
+  <link>http://klub.ukraine.dk/uk/school</link>
+  <description>
+&lt;span property="schema:name"&gt;Школа&lt;/span&gt;
+
+&lt;span rel="schema:author"&gt;&lt;span lang="" about="http://klub.ukraine.dk/uk/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+
+&lt;span property="schema:dateCreated" content="2022-03-31T15:05:08+00:00"&gt;Thu, 03/31/2022 - 17:05&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+
+&lt;div class="block block-layout-builder block-field-blocknodepagebody"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+            &lt;div property="schema:text" class="text-content clearfix field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;img alt="🗓" height="16" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t5c/1/16/1f5d3.png" width="16" /&gt; План занятть на 1 півріччя 2022:&lt;/p&gt;
+
+&lt;p&gt;Лютий:&lt;br /&gt;
+- 6.02&lt;br /&gt;
+- 27.02 Фестелавн&lt;img alt="🪅" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t36/1/16/1fa85.png" /&gt;( не відбувся)&lt;/p&gt;
+
+&lt;p&gt;Березень:&lt;br /&gt;
+- 6.03 (не відбулося)&lt;br /&gt;
+- 27.03 (відбулося) Ура!!!  &lt;img alt="🤩" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t58/1/16/1f929.png" /&gt;&lt;img alt="🤩" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t58/1/16/1f929.png" /&gt;&lt;img alt="🤩" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t58/1/16/1f929.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Квітень:&lt;br /&gt;
+- 3.04&lt;br /&gt;
+- 24.04&lt;/p&gt;
+
+&lt;p&gt;Травень:&lt;br /&gt;
+- 8.05&lt;br /&gt;
+- 22.05&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="📝" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/tcc/1/16/1f4dd.png" /&gt; У квітні/травні ймовірно відбудуться події «клубу Україна», про які буде оголошено пізніше. Будемо раді бачити всіх діток і батків вже цієї неділі&lt;/p&gt;
+
+&lt;p&gt;Навчання починається о &lt;img alt="1️⃣" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t7a/1/16/31_20e3.png" /&gt;&lt;img alt="0️⃣" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t5b/1/16/30_20e3.png" /&gt;.&lt;img alt="0️⃣" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t5b/1/16/30_20e3.png" /&gt;&lt;img alt="0️⃣" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t5b/1/16/30_20e3.png" /&gt;  тому просимо бути вже в приміщенні не пізніше &lt;img alt="0️⃣" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t5b/1/16/30_20e3.png" /&gt;&lt;img alt="9️⃣" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t72/1/16/39_20e3.png" /&gt;.&lt;img alt="5️⃣" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/tf6/1/16/35_20e3.png" /&gt;&lt;img alt="0️⃣" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t5b/1/16/30_20e3.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Мати олівчики &lt;img alt="📝" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/tcc/1/16/1f4dd.png" /&gt;&lt;img alt="🖍" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/tb9/1/16/1f58d.png" /&gt;&lt;img alt="✏️" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/te4/1/16/270f.png" /&gt;   та ланч- бокс&lt;img alt="🥗" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/1f957.png" /&gt;&lt;img alt="🥨" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t53/1/16/1f968.png" /&gt;&lt;img alt="🥖" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/tb2/1/16/1f956.png" /&gt;&lt;img alt="🌶" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/tee/1/16/1f336.png" /&gt;&lt;img alt="🥬" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/tfe/1/16/1f96c.png" /&gt;&lt;img alt="🧃" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/tc1/1/16/1f9c3.png" /&gt;   для діток &lt;img alt="✅" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png" /&gt;&lt;img alt="✅" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Адреса : Foreningernes Hus Vejle, Vissingsgade 31 1.sal, 7100 Vejle &lt;img alt="🏣" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t79/1/16/1f3e3.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Паркування : &lt;a href="https://goo.gl/maps/gQ7TAYFdat7nEZob7" target="_blank"&gt;Trondur parkering&lt;/a&gt; ( безкоштовно) &lt;img alt="🚗" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/tec/1/16/1f697.png" /&gt;&lt;img alt="🚕" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/tea/1/16/1f695.png" /&gt;&lt;img alt="🚙" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/tee/1/16/1f699.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Чекаємо з нетерпінням. До зустрічі &lt;img alt="🤩" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t58/1/16/1f929.png" /&gt;&lt;img alt="🤗" referrerpolicy="origin-when-cross-origin" src="https://static.xx.fbcdn.net/images/emoji.php/v9/tb7/1/16/1f917.png" /&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-extra-field-blocknodepagelinks"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-field-blocknodepagefield-summary"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+  &lt;div class="text-content clearfix field field--name-field-summary field--type-text-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Summary&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;p&gt;План занятть :&lt;/p&gt;
+
+&lt;table border="0" cellpadding="0" style="width: 100%;"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th class="text-align-left" scope="col"&gt;Квітень&lt;/th&gt;
+			&lt;th class="text-align-left" scope="col"&gt;Травень&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;- 3.04&lt;br /&gt;
+			- 24.04&lt;/td&gt;
+			&lt;td&gt;- 8.05&lt;br /&gt;
+			- 22.05&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;Адреса : Foreningernes Hus Vejle, Vissingsgade 31 1.sal, 7100 Vejle&lt;br /&gt;
+Навчання починається о 10:00&lt;br /&gt;
+Паркування : &lt;a href="https://goo.gl/maps/gQ7TAYFdat7nEZob7"&gt;Trondur parkering&lt;/a&gt; ( безкоштовно)&lt;/p&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-extra-field-blocknodepagecontent-moderation-control"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Thu, 31 Mar 2022 15:05:08 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">7 at http://klub.ukraine.dk</guid>
+    </item>
+
+  </channel>
+</rss>
